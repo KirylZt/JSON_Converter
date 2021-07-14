@@ -1,0 +1,73 @@
+<categories>
+	<category>
+		<name>Телефоны</name>
+		<products>
+			<product id="3">
+				<name>IPhone 10</name>
+				<price>1100</price>
+			</product>
+			<product id="7">
+				<name>Samsung S10</name>
+				<price>650</price>
+			</product>
+			<product id="2">
+				<name>Xiaomi redmi note 9</name>
+				<price>770</price>
+			</product>
+			<product id="15">
+				<name>Huawei p40 lite</name>
+				<price>430</price>
+			</product>
+		</products>
+	</category>
+	<category>
+		<name>Мебель</name>
+		<products>
+			<product id="24">
+				<name>Стол</name>
+				<price>150</price>
+			</product>
+			<product id="29">
+				<name>Стул</name>
+				<price>80</price>
+			</product>
+			<product id="22">
+				<name>Кресло</name>
+				<price>200</price>
+			</product>
+			<product id="25">
+				<name>Диван</name>
+				<price>850</price>
+			</product>
+			<product id="28">
+				<name>Шкаф</name>
+				<price>310</price>
+			</product>
+			<product id="21">
+				<name>Комод</name>
+				<price>135</price>
+			</product>
+		</products>
+	</category>
+	<category>
+		<name>Сантехника</name>
+		<products>
+			<product id="31">
+				<name>Смеситель</name>
+				<price>100</price>
+			</product>
+			<product id="33">
+				<name>Ванна</name>
+				<price>430</price>
+			</product>
+			<product id="36">
+				<name>Мойка</name>
+				<price>225</price>
+			</product>
+			<product id="38">
+				<name>Душевая кабина</name>
+				<price>760</price>
+			</product>
+		</products>
+	</category>		
+</categories>
